@@ -8,8 +8,8 @@ Obs. Foram realizadas algumas alterações necessárias para realização do pro
 
 - 1 - Para encontrar o nnúmero do IP utilizaremos o Comando ```ifconfig```. 
  
-- 2 - Após Localizarmos o IP iremos realizar o scan para obtermos os host e seus respectivos IP, para esta tarefa utilizamos o comando 
-    ``` nmap -v seguido do número do IP```, porém no ultimo octeto devemos substitui-lo por ```0/24```, dessa forma conseguirimos obter os IPs de potênciais alvos 
+- 2 - Após Localizarmos o IP iremos realizar o scan para obtermos os host e seus respectivos IP, para esta tarefa utilizamos o  comando 
+    ```nmap -v seguido do número do IP```, porém no ultimo octeto devemos substitui-lo por ```0/24```, dessa forma conseguirimos obter os IPs de potênciais alvos 
  dentro da rede a qual estamos logado.
 
 ## Iniciando Phising no Kali Linux.

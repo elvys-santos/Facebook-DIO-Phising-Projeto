@@ -1,7 +1,7 @@
 # Facebook-DIO-Phising-Projeto
 ## Ferramentas.
-###   Kali Linux.
-###   Setoolkit.
+###  + Kali Linux.
+###  + Setoolkit.
 Obs. Foram realizadas algumas alterações necessárias para realização do projeto.
 
 ## Preparação para o Phising no Kali Linux.
@@ -52,9 +52,11 @@ Obs. Foram realizadas algumas alterações necessárias para realização do pro
 ![Imagem 8](https://github.com/elvys-santos/Facebook-DIO-Phising-Projeto/assets/110802178/4568d9e6-2fdb-4292-aefe-81d74146ff9d)
 
  O alvo tentará realizar o Login usando suas credencias, neste momento nosso phising irá realizar a obtenção dos dados que buscamos.
+ 
 ![Senha Obtida](https://github.com/elvys-santos/Facebook-DIO-Phising-Projeto/assets/110802178/1d92075b-e86c-4ed1-91ba-d77e3b69eb91)
 
  Por fim o alvo será redirecionado a pagina autentica do Google sem se dar conta que vou Hackeada.
+ 
 ![Imagem 10](https://github.com/elvys-santos/Facebook-DIO-Phising-Projeto/assets/110802178/e73ee8d1-4475-446e-93f7-827b6a6e2008)
 
 

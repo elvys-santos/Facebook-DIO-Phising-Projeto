@@ -16,7 +16,7 @@ Obs. Foram realizadas algumas alterações necessárias para realização do pro
  1 Devemos entra no modo root, para tal devemos utilizar o comando sudo su.
  2 Neste momento estamos no modo root, porém devemos utilizar o setoolkit que irá nos auxiliar com algumas ferramentas para a realização da 
  tarefa, então devemos executar o comando setoolkit.
- 3 Dentro do setoolkit devemos selecionar a opção 1 4 
+ 3 Dentro do setoolkit devemos selecionar a opção 1.
 
 ![Imagen 1](https://github.com/elvys-santos/Facebook-DIO-Phising-Projeto/assets/110802178/4856f372-092f-48ff-825e-2296979bb0d6)
 
@@ -50,6 +50,7 @@ Obs. Foram realizadas algumas alterações necessárias para realização do pro
 
  O alvo tentará realizar o Login usando suas credencias, neste momento nosso phising irá realizar a obtenção dos dados que buscamos.
 ![Senha Obtida](https://github.com/elvys-santos/Facebook-DIO-Phising-Projeto/assets/110802178/1d92075b-e86c-4ed1-91ba-d77e3b69eb91)
+
  Por fim o alvo será redirecionado a pagina autentica do Google sem se dar conta que vou Hackeada.
 ![Imagem 10](https://github.com/elvys-santos/Facebook-DIO-Phising-Projeto/assets/110802178/e73ee8d1-4475-446e-93f7-827b6a6e2008)
 

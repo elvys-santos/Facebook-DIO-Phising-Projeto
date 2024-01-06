@@ -32,6 +32,17 @@ tarefa, então devemos executar o comando setoolkit.
 
 ![imagem 4](https://github.com/elvys-santos/Facebook-DIO-Phising-Projeto/assets/110802178/1e552001-8d65-413f-ad37-e4924eb369b7)
 
+### 7 Neste ponto iremos utilizar o número do IP que foi obtido em nossa pesquisa de possiveis alvos, pois iremos introduzir logo em seguida ao campo que esta oculto.
+
+
+![Imagem 5](https://github.com/elvys-santos/Facebook-DIO-Phising-Projeto/assets/110802178/1a579aa7-f5ed-48bf-bb81-142766e4cebc)
+
+### 8 Agora vamos escolher a opção 2, pois iremos tentar obter o Login e Senha do Google do nosso alvo.
+![imagem 6](https://github.com/elvys-santos/Facebook-DIO-Phising-Projeto/assets/110802178/6650e87d-adc8-4c84-8fef-efe957734dc3)
+
+
+
+
 
 
 

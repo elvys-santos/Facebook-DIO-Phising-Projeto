@@ -34,15 +34,24 @@ tarefa, então devemos executar o comando setoolkit.
 
 ### 7 Neste ponto iremos utilizar o número do IP que foi obtido em nossa pesquisa de possiveis alvos, pois iremos introduzir logo em seguida ao campo que esta oculto.
 
-
 ![Imagem 5](https://github.com/elvys-santos/Facebook-DIO-Phising-Projeto/assets/110802178/1a579aa7-f5ed-48bf-bb81-142766e4cebc)
 
 ### 8 Agora vamos escolher a opção 2, pois iremos tentar obter o Login e Senha do Google do nosso alvo.
 ![imagem 6](https://github.com/elvys-santos/Facebook-DIO-Phising-Projeto/assets/110802178/6650e87d-adc8-4c84-8fef-efe957734dc3)
 
+### 9 Pronto já configuramos o nosso Phising utilizando o setoolkit.
 
+![imagen 7](https://github.com/elvys-santos/Facebook-DIO-Phising-Projeto/assets/110802178/5fd81b79-875f-42bc-bf0a-d7e91e43bc4b)
 
+## Colhendo os frutos.
+### Nosso Phising está pronto e esperando nosso alvo.
 
+![Imagem 8](https://github.com/elvys-santos/Facebook-DIO-Phising-Projeto/assets/110802178/4568d9e6-2fdb-4292-aefe-81d74146ff9d)
+
+### O alvo tentará realizar o Login usando suas credencias, neste momento nosso phising irá realizar a obtenção dos dados que buscamos.
+![Senha Obtida](https://github.com/elvys-santos/Facebook-DIO-Phising-Projeto/assets/110802178/1d92075b-e86c-4ed1-91ba-d77e3b69eb91)
+### por fim o alvo será redirecionado a pagina autentica do Google sem se dar conta que vou Hackeada.
+![Imagem 10](https://github.com/elvys-santos/Facebook-DIO-Phising-Projeto/assets/110802178/e73ee8d1-4475-446e-93f7-827b6a6e2008)
 
 
 
